@@ -1,5 +1,5 @@
 # birthday_paradox
-Find out how many people does a room has to have, in order fot you to have the same birthday with someone else.
+Find out how many people does a room has to have, in order for you to have the same birthday with someone else.
 
 execute: python birthday_paradox.py
 
